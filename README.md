@@ -7,5 +7,6 @@ My learning path through ***Statistics*** using:
 * NumPy
 * MatplotLib
 * Seaborn
-
+* Scipy
+  
   
